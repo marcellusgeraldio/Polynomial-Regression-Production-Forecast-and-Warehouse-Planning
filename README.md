@@ -1,8 +1,8 @@
 🧮 **Polynomial Regression – Production Forecast and Warehouse Planning**
 
-Dibuat oleh: **Marcellus Geraldio Florenta (2702262816)**
-Universitas Bina Nusantara – Computer Science
-Mata Kuliah: **Scientific Computing (Assurance of Learning)**
+Dibuat oleh: **Marcellus Geraldio Florenta (2702262816)**  
+Universitas Bina Nusantara – Computer Science  
+Mata Kuliah: **Scientific Computing (Assurance of Learning)**  
 
 ---
 
