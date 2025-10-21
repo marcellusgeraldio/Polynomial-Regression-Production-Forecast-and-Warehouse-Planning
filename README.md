@@ -16,14 +16,14 @@ Program melakukan fitting polinomial derajat 4 untuk mendapatkan model tren yang
 
 ---
 
-## 🧩 Fitur Utama
+## 📌 Fitur Utama
 
-✅ Membaca data produksi tas dari file CSV
-✅ Melakukan fitting polinomial derajat 4
-✅ Menghitung **Root Mean Squared Error (RMSE)** untuk mengukur akurasi model
-✅ Menentukan waktu (bulan ke-) ketika produksi mencapai batas maksimum (25.000 tas)
-✅ Menentukan waktu ideal untuk mulai membangun gudang baru (13 bulan sebelumnya)
-✅ Menampilkan grafik hasil prediksi dengan garis kapasitas gudang dan titik perkiraan waktu maksimum
+✅ Membaca data produksi tas dari file CSV  
+✅ Melakukan fitting polinomial derajat 4  
+✅ Menghitung **Root Mean Squared Error (RMSE)** untuk mengukur akurasi model  
+✅ Menentukan waktu (bulan ke-) ketika produksi mencapai batas maksimum (25.000 tas)  
+✅ Menentukan waktu ideal untuk mulai membangun gudang baru (13 bulan sebelumnya)  
+✅ Menampilkan grafik hasil prediksi dengan garis kapasitas gudang dan titik perkiraan waktu maksimum  
 
 ---
 
